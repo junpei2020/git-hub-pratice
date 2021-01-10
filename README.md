@@ -1,4 +1,1 @@
-# git-hub-pratice
-
-リスト１
-りすと２
+git_practice
